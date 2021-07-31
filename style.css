@@ -3,6 +3,17 @@ body {
 }
 h1 {
     margin: auto;
-    align-content: center;
-    background-color: beige;   
+    text-align:  center;
+    background-color: white;   
+}
+h3 {
+    margin: auto;
+    text-align: center;
+    background-color: white;
+}
+p{
+    background-color: white;
+}
+ul{
+    background-color: white;
 }
