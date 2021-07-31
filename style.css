@@ -3,18 +3,15 @@ body {
 }
 h1 {
     margin: auto;
-    text-align:  center;
-    background-color: white;   
+    text-align: center;
 }
 h2{
     margin: auto;
     text-align: center;
-    background-color: white;
 }
 h3 {
     margin: auto;
     text-align: center;
-    background-color: white;
 }
 p {
     background-color: white;
