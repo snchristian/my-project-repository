@@ -1,3 +1,8 @@
 body {
-    background-color: aqua;
+    background-image: url(https://www.fodors.com/wp-content/uploads/2018/09/shutterstock_786055714.jpg);
+}
+h1 {
+    margin: auto;
+    align-content: center;
+    background-color: beige;   
 }
