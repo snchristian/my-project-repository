@@ -9,20 +9,27 @@ h1 {
 h2{
     text-align: center;
     color: white;
-    padding-bottom: 50px;
+    padding-bottom: 10px;
 }
 h3 {
     margin: auto;
     text-align: center;
     color: white;
 }
+.nice {
+    display:table;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
 }
-ul{
+#delicious + ul {
+    margin-top: -10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:white
+    color: white
 }
 img {
     width: 300px;
